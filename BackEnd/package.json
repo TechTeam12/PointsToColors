@@ -1,0 +1,11 @@
+{
+  "name": "pointstocolors",
+  "version": "1.0.0",
+  "description": "This app is a plugin to work with twitch that will send notifications to a hosted server that will broadcast to a phillip hues bulb to change colors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
